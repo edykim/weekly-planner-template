@@ -7,7 +7,7 @@
 - Double-side print recommend
 - The template uses 1cm bleed (Printer should support that. If not, it will cut out.)
 
-![Template image](https://raw.githubusercontent.com/edykim/weekly-planner-template/master/snapshot.png)
+![Template image](https://raw.githubusercontent.com/edykim/weekly-planner-template/master/screenshot.png)
 
 ## Scripts
 
